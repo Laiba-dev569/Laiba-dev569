@@ -1,6 +1,6 @@
 # Hi 👋, I'm Laiba Mushtaq
 
-### A passionate Javascript developer
+### A passionate AI Fullstact developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Laiba-dev569&label=Profile views&color=0e75b6&style=flat" alt="Laiba-dev569" /> </p>
 
@@ -8,13 +8,13 @@
 
 - 🌱 I'm currently learning **I'm learning Python and exploring. new things**
 
-- 👯 I'm looking to collaborate on **Open-source AI projects: - Innovative web development projects   - Community-driven tech initiatives**
+- 👯 I'm looking to collaborate on Open-source AI projects: - Innovative web development projects   - Community-driven tech initiatives**
 
-- 🤝 I'm looking for help with **learning the AI things **
+- 🤝 I'm looking for help with learning the AI things 
 
-- 💬 Ask me about **React Nodejs **
+- 💬 Ask me about React Nodejs
 
-- 📫 How to reach me **mushtaqlaiba8@gmail.com**
+- 📫 How to reach me mushtaqlaiba8@gmail.com
 
 - ⚡ Fun fact **I love turning complex tech concepts into simple, practical solutions and always enjoy stepping out of my comfort zone to learn new things. 🚀**
 
