@@ -10,11 +10,11 @@
 
 Hi, I'm Laiba! As an AI full-stack engineer, I specialize in creating innovative web applications that merge functionality with cutting-edge technology. I'm passionate about turning your ideas into impactful solutions that address real-world challenges!
 
-- 🌱 Currently learning **I'm immersing myself in the fascinating world of Python, Artificial Intelligence, Machine Learning, and Data Science, while sharpening my skills in Generative AI and crafting AI-driven applications.**
+- 🌱 Currently learning: **I'm immersing myself in the fascinating world of Python, Artificial Intelligence, Machine Learning, and Data Science, while sharpening my skills in Generative AI and crafting AI-driven applications.**
   
 - 💬 Ask me about **React, JavaScript, TypeScript, Node.js, Python, Web Development, and beginner-friendly AI/ML concepts.**
   
-- ⚡ I can spend hours debugging a single bug only to find out it was a missing semicolon! When I'm not coding, you’ll find me diving into new anime series, exploring tech trends, or dreaming up ambitious 'what if?' AI projects.
+- ⚡Fun Fact:  I can spend hours debugging a single bug only to find out it was a missing semicolon! When I'm not coding, you’ll find me diving into new anime series, exploring tech trends, or dreaming up ambitious 'what if?' AI projects.
 
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
 
