@@ -1,21 +1,39 @@
-# 💫 About Me:
-🔭 I'm currently working on building full-stack web applications using React, TypeScript, and Node.js and exploring AI-powered solutions for real-world problems.<br>👯 I'm looking to collaborate on open-source AI projects, full-stack applications, and beginner-friendly machine learning projects.<br>🤝 I'm looking for help with implementing AI in real-world applications, improving my AI development skills, and finding impactful project ideas.<br>🌱 I'm currently learning Python, Artificial Intelligence (AI), Machine Learning, and Data Science.<br>💬 Ask me about Python, React, JavaScript, Node.js, beginner AI/ML concepts, and web development.<br>📫 How to reach me: mushtaqlaiba8@gmail.com<br>⚡  Fun fact: I can spend hours debugging one tiny bug... only to realize I forgot a semicolon. 😅 When I'm not coding, you'll probably find me watching anime or turning random "what if?" thoughts into AI project ideas. 🚀
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Laiba%20Mushtaq&fontSize=50&fontColor=fff&animation=twinkling)
 
+<div align="center">
 
-# 💻 Tech Stack:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Laiba-dev569&theme=moltack&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Laiba-dev569&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Laiba-dev569&theme=moltack&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### AI Full Stack Engineer
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Laiba-dev569&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
 
----
-[![](https://komarev.com/ghpvc/?username=Laiba-dev569&icon=0&color=0)](https://visitcount.itsvg.in)
+Hi, I'm Laiba! As an AI full-stack engineer, I specialize in creating innovative web applications that merge functionality with cutting-edge technology. I'm passionate about turning your ideas into impactful solutions that address real-world challenges!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 Currently learning **I'm immersing myself in the fascinating world of Python, Artificial Intelligence, Machine Learning, and Data Science, while sharpening my skills in Generative AI and crafting AI-driven applications.**
+- 💬 Ask me about **React, JavaScript, TypeScript, Node.js, Python, Web Development, and beginner-friendly AI/ML concepts.**
+- ⚡ Fun Fact: I can spend hours debugging a single bug only to find out it was a missing semicolon! When I'm not coding, you’ll find me diving into new anime series, exploring tech trends, or dreaming up ambitious 'what if?' AI projects.
+
+![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-333?style=for-the-badge&logo=vercel&logoColor=white) ![N8n](https://img.shields.io/badge/N8n-333?style=for-the-badge&logo=n8n&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas&logoColor=white) ![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white) ![Mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-333?style=for-the-badge&logo=numpy&logoColor=white) ![Matplolib](https://img.shields.io/badge/Matplolib-333?style=for-the-badge&logo=matplolib&logoColor=white) ![Datacleaning](https://img.shields.io/badge/Datacleaning-333?style=for-the-badge&logo=datacleaning&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=binarylaiba&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binarylaiba&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+![Connect](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Connect&fontSize=22&fontColor=fff)
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laiba-portfolio-nine.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushtaqlaiba8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/laiba-mushtaq-580781181/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binarylaiba)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)
