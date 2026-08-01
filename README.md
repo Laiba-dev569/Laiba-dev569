@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laiba Mushtaq</h1>
-<h3 align="center"> I'm an AI Full Stack Engineer passionate about building innovative web applications that combine modern technologies with real-world solutions. I enjoy turning ideas into impactful, user-focused applications while continuously exploring the world of AI and emerging technologies</h3>
+<h3 align="center"> I'm an AI Full Stack Engineer passionate about building innovative web applications that combine modern technologies with real-world solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binarylaiba&label=Profile%20views&color=0e75b6&style=flat" alt="binarylaiba" /> </p>
 
@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **Python, Artificial Intelligence, Machine Learning, Data Science, Generative AI, and AI-driven application development.**
 
-- 👯 I’m looking to collaborate on **Open-source AI projects - Innovative web development projects - Community-driven tech initiatives**
-
 - 👨‍💻 All of my projects are available at [https://laiba-portfolio-nine.vercel.app/](https://laiba-portfolio-nine.vercel.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@mushtaqlaiba8](https://medium.com/@mushtaqlaiba8)
 
 - 💬 Ask me about **React, JavaScript, TypeScript, Node.js, Python, Web Development, and beginner-friendly AI/ML concepts.**
 
