@@ -1,6 +1,6 @@
 # Hi 👋, I'm Laiba Mushtaq
 
-### An Full Stack Engineer
+### An  AI Full Stack Engineer
 
 - 🔭 I'm currently working on **working on Building full-stack projects with React, TypeScript, and Node.js and exploring AI-based project ideas for real-world problem-solving**
 
