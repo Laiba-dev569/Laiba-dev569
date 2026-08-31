@@ -3,13 +3,7 @@
 
 ### An AI Engineer
 
-<p align="left">
-  <a href="https://twitter.com/Laibamu36444508" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Laibamu36444508?logo=twitter&style=for-the-badge" alt="Laibamu36444508" />
-  </a>
-</p>
-
-<br>
+<hr>
 
 - 🌱 I'm currently learning **Python, Artificial Intelligence (AI), and Data Science**
 
@@ -21,7 +15,7 @@
 
 - ⚡ Fun fact: **Love watching anime and enjoy learning AI by connecting it with simple, real-life problems. 🚀**
 
-<br>
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -40,7 +34,7 @@
   </a>
 </p>
 
-<br>
+<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -83,17 +77,17 @@
   <a href="#"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/></a>
 </p>
 
-<br>
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=binarylaiba&show_icons=true&locale=en" alt="binarylaiba" />
 </p>
 
-<br>
+<hr>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarylaiba" alt="binarylaiba" />
 </p>
 
-<br>
+<hr>
 
