@@ -1,22 +1,27 @@
+
 # Hi 👋, I'm Laiba Mushtaq
 
 ### An AI Engineer
 
-<p align="left"> <a href="https://twitter.com/Laibamu36444508" target="blank"><img src="https://img.shields.io/twitter/follow/Laibamu36444508?logo=twitter&style=for-the-badge" alt="Laibamu36444508" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/Laibamu36444508" target="blank">
+    <img src="https://img.shields.io/twitter/follow/Laibamu36444508?logo=twitter&style=for-the-badge" alt="Laibamu36444508" />
+  </a>
+</p>
 
+<br>
 
 - 🌱 I'm currently learning **Python, Artificial Intelligence (AI), and Data Science**
 
 - 🤝 I'm looking for help with **Finding practical AI project ideas and understanding how to implement AI in real-world applications**
 
-- 💬 Ask me about **AI/ML learning journey, React, Node.js basics, and beginner-friendly AI project ideas
+- 💬 Ask me about **AI/ML learning journey, React, Node.js basics, and beginner-friendly AI project ideas**
 
 - 📫 How to reach me: **mushtaqlaiba8@gmail.com**
 
 - ⚡ Fun fact: **Love watching anime and enjoy learning AI by connecting it with simple, real-life problems. 🚀**
 
-
-
+<br>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -34,6 +39,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40"/>
   </a>
 </p>
+
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -76,7 +83,17 @@
   <a href="#"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binarylaiba&show_icons=true&locale=en" alt="binarylaiba" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binarylaiba&" alt="binarylaiba" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=binarylaiba&show_icons=true&locale=en" alt="binarylaiba" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarylaiba" alt="binarylaiba" />
+</p>
+
+<br>
 
