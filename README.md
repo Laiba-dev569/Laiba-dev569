@@ -1,6 +1,6 @@
 # Hi 👋, I'm Laiba Mushtaq
 
-### An AI Engineer
+### AI Engineer | Agentic AI • GenAI • Machine Learning
 
 <hr>
 
