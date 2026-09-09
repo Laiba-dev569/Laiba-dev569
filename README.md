@@ -52,6 +52,7 @@
 <!-- ================================================================= -->
 ### Languages and Technologies:
 
+
 <!-- Row 1: AI, Machine Learning, Deep Learning, and Agentic Systems -->
 <p align="center">
   <!-- Python -->
@@ -194,7 +195,8 @@
 <!-- SECTION: GITHUB STREAK METRICS                                    -->
 <!-- Real-time tracker for daily contribution streaks                  -->
 <!-- ================================================================= -->
-## GitHub Stats
+## GitHub Stats:
+
 
 <p align="center">
   <a href="https://github.com/binarylaiba" target="_blank" rel="noopener noreferrer">
