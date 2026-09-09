@@ -41,7 +41,7 @@
 <p align="center">
   <a href="#"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
+  <a href="#"><img src="https://brandlogos.sgp1.digitaloceanspaces.com/svg/logos/seaborn-icon.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/></a>
@@ -52,8 +52,9 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/></a>
-</p>
+  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/OpenCV-Dark.svg" alt"=opencv"width="40" height="40"/></a>
+
+
 
 <!-- Row 2 -->
 <p align="center">
@@ -61,19 +62,22 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" alt=vscode" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.simpleicons.org/seaborn" alt="seaborn" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/n8n.webp" alt="n8n" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/crewai/FF5A50" alt="CrewAI" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/google-colab.webp" alt="Google Collab" width="40" height="40"/></a>
+  
 </p>
 
 <hr>
