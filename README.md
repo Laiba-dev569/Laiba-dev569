@@ -23,7 +23,7 @@
 <!-- SECTION: SOCIAL & COMMUNITY PROFILES                              -->
 <!-- Interactive links to GitHub, LinkedIn, X (Twitter), and Medium   -->
 <!-- ================================================================= -->
-<h3 align="center">Connect with me</h3>
+### Connect with me:
 
 <p align="center">
   <!-- GitHub Profile -->
@@ -50,7 +50,7 @@
 <!-- SECTION: TECH STACK & TOOLING                                     -->
 <!-- Standardized 40x40px icons for frameworks, languages, and tools   -->
 <!-- ================================================================= -->
-<h3 align="center">Languages and Technologies</h3>
+### Languages and Technologies:
 
 <!-- Row 1: AI, Machine Learning, Deep Learning, and Agentic Systems -->
 <p align="center">
@@ -178,7 +178,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
   </a>
-  <!-- VS Code (Fixed: typo on attribute alt=vscode") -->
+  <!-- VS Code (Fixed: typo on attribute alt= " vscode") -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" alt="VS Code" width="40" height="40" />
   </a>
@@ -191,19 +191,16 @@
 <hr>
 
 <!-- ================================================================= -->
-<!-- SECTION: GITHUB METRICS & REAL-TIME STATS                         -->
-<!-- Visual metrics cards tracking contributions, repos, and streaks   -->
+<!-- SECTION: GITHUB STREAK METRICS                                    -->
+<!-- Real-time tracker for daily contribution streaks                  -->
 <!-- ================================================================= -->
-<p align="center">
-  <!-- GitHub Activity & Language Summary Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=binarylaiba&show_icons=true&locale=en" alt="GitHub Stats Card" />
-</p>
-
-<hr>
+## GitHub Stats
 
 <p align="center">
-  <!-- Consecutive Commit Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binarylaiba" alt="GitHub Streak Tracker" />
+  <a href="https://github.com/binarylaiba" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=binarylaiba&theme=dark&hide_border=true" 
+      alt="GitHub Contribution Streak for binarylaiba" 
+    />
+  </a>
 </p>
-
-<hr>
